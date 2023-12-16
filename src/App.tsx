@@ -7,7 +7,7 @@ function App() {
       <h1>VOLTEX Website</h1>
       <div className="card">
         <p>
-          placeholder page for VOLTEX
+          Demo of Github Intergration
         </p>
       </div>
     </>
